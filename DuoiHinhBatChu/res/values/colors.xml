@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loseclolor">#d50000</color>
+    <color name="wincolor">#1e88e5</color>
+    <color name="normalcolor">#eceff1</color>
+</resources>
